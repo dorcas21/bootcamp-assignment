@@ -1,0 +1,12 @@
+/home/dorcas/Desktop/pato/Hospital/src/main/java/com/hospital/dao/DrugDaoImpl.java
+/home/dorcas/Desktop/pato/Hospital/src/main/java/com/hospital/controllers/DrugController.java
+/home/dorcas/Desktop/pato/Hospital/src/main/java/com/hospital/services/DrugServiceImpl.java
+/home/dorcas/Desktop/pato/Hospital/src/main/java/com/hospital/models/Drug.java
+/home/dorcas/Desktop/pato/Hospital/src/main/java/com/hospital/controllers/PatientController.java
+/home/dorcas/Desktop/pato/Hospital/src/main/java/com/hospital/models/Patient.java
+/home/dorcas/Desktop/pato/Hospital/src/main/java/com/hospital/dao/DrugDao.java
+/home/dorcas/Desktop/pato/Hospital/src/main/java/com/hospital/dao/PatientDaoImpl.java
+/home/dorcas/Desktop/pato/Hospital/src/main/java/com/hospital/services/PatientServiceImpl.java
+/home/dorcas/Desktop/pato/Hospital/src/main/java/com/hospital/services/DrugService.java
+/home/dorcas/Desktop/pato/Hospital/src/main/java/com/hospital/dao/PatientDao.java
+/home/dorcas/Desktop/pato/Hospital/src/main/java/com/hospital/services/PatientService.java
